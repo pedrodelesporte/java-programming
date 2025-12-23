@@ -1,7 +1,7 @@
 # Java Programming (College Coursework)
 
 This repository contains the Java code I wrote during my college Java programming class.  
-It includes labs, small exercises, and assignments used to practice core Java concepts.
+It includes projects and assignments used to practice core Java concepts.
 
 ## What’s Inside
 
