@@ -20,12 +20,6 @@ This repo is mainly labs and projects used to practice core concepts as the seme
 - Not every file is “perfect” — some are early attempts or quick in-class work, and later folders usually show cleaner code.
 - Comments are included when they helped me understand the concept or the logic.
 
-## Course Info
-
-- **Course:** Java Programming
-- **Term:** **Spring 2025** 
-- **Language:** Java
-
 ## Academic Integrity
 
 If you’re taking a similar course: don’t copy/paste.  
