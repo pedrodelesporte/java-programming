@@ -1,7 +1,7 @@
-# Java Programming — College Coursework
+# Java Programming — College Coursework 
 
-A collection of Java programs I wrote throughout my college Java programming class.  
-This repo is mainly labs and projects used to practice core concepts as the semester progressed.
+A collection of Java programs I wrote while studying by myself and throughout my college Java programming class.  
+This repo is mainly small exercises, labs and projects used to practice core concepts as the semester progressed.
 
 ## What You’ll Find Here
 
